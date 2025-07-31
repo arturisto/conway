@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.806.0",
+    "@google/generative-ai": "^0.21.0",
+    "axios": "^1.9.0",
+    "csv-parser": "^3.2.0",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.5.0",
+    "node": "^20.14.0",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.96.0",
+    "playwright": "^1.52.0",
+    "twilio": "^5.6.0"
+  },
+  "type": "module",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
